@@ -12,9 +12,7 @@ import org.firstinspires.ftc.teamcode.subsystems.Claw;
 import org.firstinspires.ftc.teamcode.subsystems.Drivetrain;
 import org.firstinspires.ftc.teamcode.subsystems.Lift;
 
-/**
- * An opmode for 1 driver in the driver-controlled segment.
- */
+/** An opmode for 1 driver in the driver-controlled segment. */
 @TeleOp
 public class OneDriver extends CommandOpMode {
     @Override
